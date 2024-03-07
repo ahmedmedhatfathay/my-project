@@ -19,7 +19,6 @@ int main(void)
         string z = get_string("what number do u add it ?\n");
         string y = get_string("what name do u add it ?\n");
     }
-     printf("hallo ahmed");
     string s = get_string("what are you sarching about it ???\n");
     for (int i = 0; i < 2; i++)
     {
